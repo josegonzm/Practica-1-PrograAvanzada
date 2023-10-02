@@ -1,0 +1,7 @@
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\bin\Release\Practica-1-PrograAvanzada.exe.config
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\bin\Release\Practica-1-PrograAvanzada.exe
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\bin\Release\Practica-1-PrograAvanzada.pdb
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\obj\Release\Practica-1-PrograAvanzada.csproj.AssemblyReference.cache
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\obj\Release\Practica-1-PrograAvanzada.csproj.CoreCompileInputs.cache
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\obj\Release\Practica-1-PrograAvanzada.exe
+D:\brand\source\repos\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\Practica-1-PrograAvanzada\obj\Release\Practica-1-PrograAvanzada.pdb

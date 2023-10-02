@@ -15,18 +15,18 @@ namespace Practica_1_PrograAvanzada
         private String correo;
         private String nacionalidad;
         private int telefono;
-        private String habitacion;
+        private int habitacion;
 
-        public Persona()
+        public Persona(String nombre, String primerApellido, String segundoApellido, string id, string correo, string nacionalidad, int telefono, int habitacion)
         {
-            this.nombre = "";
-            this.primerApellido = "";
-            this.segundoApellido = "";
-            this.id = "";
-            this.correo = "";
-            this.nacionalidad = "";
-            this.telefono = 0;
-            this.habitacion = "";
+            this.nombre = nombre;
+            this.primerApellido = primerApellido;
+            this.segundoApellido = segundoApellido;
+            this.id = id;
+            this.correo = correo;
+            this.nacionalidad = nacionalidad;
+            this.telefono = telefono;
+            this.habitacion = habitacion;
         }
         public string Nombre
         {
@@ -70,11 +70,11 @@ namespace Practica_1_PrograAvanzada
             set { telefono = value; }
         }
 
-        public string Habitacion
+        public int Habitacion
         {
             get { return habitacion; }
             set { habitacion = value; }
         }
+
     }
 }
-

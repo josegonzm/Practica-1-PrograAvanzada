@@ -10,9 +10,10 @@ namespace Practica_1_PrograAvanzada
     {
         static void Main(string[] args)
         {
-            Persona persona = new Persona();
+
             Menu menu = new Menu();
-            menu.mostrarMenu();
+            menu.MostrarMenu();
+
         }
     }
 }
